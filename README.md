@@ -91,4 +91,5 @@ Configuration is done by editing the variables directly within the Python script
 ## License
 
 MIT License
+
 This script is provided as-is. Please review and test it carefully before relying on it for critical data.
